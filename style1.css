@@ -1,0 +1,35 @@
+.total-cal{
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.result{
+    width: 340px;
+    height: 100px;
+    align-items: 5px 3px;
+    text-align: right;
+}
+
+.btn{
+ width: 85px;
+ height: 70px;
+ color: white;
+ background-color: rgb(34, 153, 84);
+ 
+}
+
+.btn-style{
+    width: 85px;
+    height: 70px;
+    background-color: cadetblue;
+}
+
+.btn:hover{
+    background-color: darkcyan;
+}
+
